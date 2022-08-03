@@ -1,2 +1,2 @@
 # StickyNotes
-Eine Sammlung an nützlichen Befehlen und Scuipten
+Eine Sammlung an nützlichen Befehlen und Scripten.
